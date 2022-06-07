@@ -4,7 +4,7 @@
 - 🌍 VP of Engineering at [CU Blueprint](https://cublueprint.org/)
 - 📚 Teaching Assistant and Peer Mentor at Carleton University 
 - 🏆 [3x Hackathon Winner](https://devpost.com/zhu-tom), including at [Hack the North](https://hackthenorth.com/) (Canada's biggest hackathon!)
-#### 👀 Looking for Summer 2023 Internships!
+#### 👀 Looking for Summer 2023 Internships :)
 [Email](mailto:tomzhu@cmail.carleton.ca) | [LinkedIn](https://www.linkedin.com/in/zhu-tom) | [Website](https://zhutom.com) | [Devpost](https://devpost.com/zhu-tom)
 
 <!--
