@@ -1,6 +1,6 @@
 ### Hi, I'm Tom 👋
 - 🚀 Currently an intern at [Coinbase](https://www.coinbase.com) on [Prime Trading](https://www.coinbase.com/prime) Algorithms
-- 🛍️ Previously an intern at [Shopify](https://www.shopify.com) on [Shopify Balance](https://www.shopify.com/balance)
+- 💳 Previously an intern at [Shopify](https://www.shopify.com) on [Shopify Balance](https://www.shopify.com/balance)
 - 🌍 VP of Engineering at [CU Blueprint](https://cublueprint.org/)
 - 📚 Teaching Assistant and Peer Mentor at Carleton University 
 - 🏆 [3x Hackathon Winner](https://devpost.com/zhu-tom), including at [Hack the North](https://hackthenorth.com/) (Canada's biggest hackathon!)
